@@ -3,6 +3,7 @@
 
 <br/>
 
+#### Overview
 There are 3 pages that you can check out.
 
 |Page|What you can find|
@@ -13,6 +14,22 @@ There are 3 pages that you can check out.
 
 <br/>
 
+This portfolio website is responsive website.
+
+<br/>
+
+#### Preview
+
+_desktop_ 
+<br/>
+<img src="https://postfiles.pstatic.net/MjAyMTA0MjhfMjI0/MDAxNjE5NTM3NTYwMDU0.wVxMoS_NWWoPczWn0RMQg7vIYR6mpQ91w7rK-nXIugkg.0wkq3DHEp2Itae2n4gYnpkTHZRf7Z3hMg5mhBdZbFEYg.PNG.cookr3/image.png?type=w773" width="500" />
+
+_mobile_
+<br/>
+<img src="https://postfiles.pstatic.net/MjAyMTA0MjhfMjM3/MDAxNjE5NTQwMTEzNzM3.gk9nCN8G8z_pZxdgdeAiUIbjNQ8xhRCyDBa4vIn2_bYg.zSLSyWvQ4TyxwBg_cyPTGVSX3o42wju_lB2PwLB8js0g.JPEG.cookr3/IMG_8436.jpg?type=w773" width="500" />
+
+
+<br/>
 
 
 ---
@@ -23,7 +40,7 @@ There are 3 pages that you can check out.
 <br/>
 
 ### 1. Youtube
-#### overview
+#### Overview
 Youtube clone project made with React JS
 
 #### Features
@@ -34,7 +51,7 @@ Youtube clone project made with React JS
 <br/>
 
 ### 2. Habit Tracker
-#### overview
+#### Overview
 Habit tracking app made with React JS
 
 #### Features
@@ -47,7 +64,7 @@ Habit tracking app made with React JS
 
 
 ### 3. Momentum
-#### overview
+#### Overview
 Momentum app made with Vanilla JS
 
 #### Features
@@ -62,7 +79,7 @@ Momentum app made with Vanilla JS
 
 
 ### 4. Drawing Board
-#### overview
+#### Overview
 Drawing Board made with Vanilla JS
 
 #### Features
