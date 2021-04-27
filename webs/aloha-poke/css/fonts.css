@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Grotesk";
+    font-style: normal;
+    font-weight: 400;
+    src: url('../asset/fonts/HKGrotesk-Regular.woff') format('woff'); /* Pretty Modern Browsers */
+}
+
+@font-face {
+    font-family: "Grotesk";
+    font-style: normal;
+    font-weight: 700;
+    src: url('../asset/fonts/HKGrotesk-Bold.woff') format('woff'); /* Pretty Modern Browsers */
+}

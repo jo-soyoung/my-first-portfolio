@@ -1,0 +1,27 @@
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+button {
+    font-family: 'Grotesk', sans-serif;
+    border: none;
+    cursor: pointer;
+}
+
+button:focus, button:active {
+    box-shadow: none;
+    outline: none;
+}
+
+ul, ol, li {
+    list-style-type: none;
+}
+
