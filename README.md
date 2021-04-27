@@ -3,7 +3,7 @@
 
 <br/>
 
-#### Overview
+### Overview
 - There are 3 pages that you can check out.
 
 |Page|What you can find|
@@ -31,7 +31,7 @@ _mobile_
 
 ---
 
-## :book: Landing Page
+# :book: Landing Page
 ❗ Please scroll instead of clicking the pagers on the main page.
 <br/>
 ✨ As I regard each apps as handcrafts, I used a metaphor by replacing each app's main image with real art pieces. <br/>
@@ -40,7 +40,7 @@ You can see the reference when you hover the image.
 
 <br/>
 
-### 1. Youtube
+## 1. Youtube
 #### Overview
 Youtube clone project made with React JS
 
@@ -51,7 +51,7 @@ Youtube clone project made with React JS
 
 <br/>
 
-### 2. Habit Tracker
+## 2. Habit Tracker
 #### Overview
 Habit tracking app made with React JS
 
@@ -64,7 +64,7 @@ Habit tracking app made with React JS
 <br/>
 
 
-### 3. Momentum
+## 3. Momentum
 #### Overview
 Momentum app made with Vanilla JS
 
@@ -79,7 +79,7 @@ Momentum app made with Vanilla JS
 <br/>
 
 
-### 4. Drawing Board
+## 4. Drawing Board
 #### Overview
 Drawing Board made with Vanilla JS
 
@@ -93,7 +93,7 @@ Drawing Board made with Vanilla JS
 
 ---
 
-## :book: Web Design & Coding Page
+# :book: Web Design & Coding Page
 :exclamation: The descriptions are written in Korean now.
 
 <br/>
