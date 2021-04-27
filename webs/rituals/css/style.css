@@ -1,0 +1,472 @@
+@import 'reset.css';
+@import 'fonts.css';
+
+
+/*Basic Styling*/
+body,
+html {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    font-family: 'ClassGarmnd', 'Times New Roman', serif;
+}
+
+.scroll-container {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.scroll-container section {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+
+/*Position Fixed - Header & Scroll Navigation*/
+/*
+.fixed {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+*/
+
+
+/*Header*/
+#main-header {
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 90px;
+    padding: 0 50px;
+    color: #fff;
+    background-color: #1a1919;
+    z-index: 10;
+}
+
+#main-header h1 img {
+    height: 50px;
+}
+
+#main-header nav ul {
+    display: flex;
+}
+
+#main-header nav a {
+    padding: 0 10px;
+}
+
+#main-header nav li:first-child a {
+    padding-left: 0;
+}
+
+#main-header nav li:last-child a {
+    padding-right: 0;
+}
+
+
+/*Scroll Navigation*/
+/*
+.scroll-nav {
+    display: block;
+    position: fixed;
+    bottom: 50px;
+    width: 100%;
+    text-align: center;
+}
+
+.scroll-nav li:nth-child(1) {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #fff;
+}
+
+.scroll-nav li:nth-child(2) a:nth-child(1) {
+    position: absolute;
+    bottom: 0;
+    left: 50px;
+}
+
+.scroll-nav li:nth-child(2) a:nth-child(2) {
+    position: absolute;
+    bottom: 0;
+    right: 50px;
+}
+*/
+
+
+/*Scroll Navigation - JS Control*/
+/*
+.display-false {
+    display: none;
+}
+
+.display-true {
+    display: block;
+}
+*/
+
+
+
+/*Section 01 - Main*/
+.section1 {
+    color: #fff;
+}
+
+.section1 h2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 70px;
+    letter-spacing: -0.05em;
+    line-height: 90px;
+    font-style: italic;
+}
+
+.section1 h2::before {
+    content: open-quote;
+    display: block;
+    line-height: 0;
+}
+
+.section1 h2::after {
+    content: close-quote;
+    display: block;
+}
+
+.vimeo-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    pointer-events: none;
+    overflow: hidden;
+}
+
+.vimeo-wrapper iframe {
+    width: 100vw;
+    height: 56.25vw;
+    /* Given a 16:9 aspect ratio, 9/16*100 = 56.25 */
+    min-height: 100vh;
+    min-width: 177.77vh;
+    /* Given a 16:9 aspect ratio, 16/9*100 = 177.77 */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+/*Section 2 - Happy Buddha*/
+
+.half-top {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 50%;
+    color: #fff;
+}
+
+.half-bottom {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.section2 .half-top {
+    background-color: #aa4b1e;
+}
+
+.section2 .half-bottom {
+    background-image: url(../asset/images/bg-happybuddha.png);
+}
+
+.collection-desc {
+    position: absolute;
+    top: 160px;
+    left: 130px;
+}
+
+.collection-desc > h3 {
+    margin-bottom: 20px;
+    font-size: 30px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+
+.collection-desc > p {
+    display: block;
+    margin-bottom: 30px;
+    font-size: 16px;
+    font-family: 'ScalaSans', sans-serif;
+    font-weight: 300;
+}
+
+.collection-desc > a {
+    display: inline-block;
+    padding: 20px 46px;
+    font-family: 'ScalaSans', sans-serif;
+    font-weight: 400;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    border: 1px solid #fff;
+    border-radius: 2px;
+    transition: all 350ms ease-in-out;
+}
+
+.collection-desc > a:hover {
+    background-color: #fff;
+    color: #191919;
+}
+
+.collection-product {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.collection-product img {
+    width: 630px;
+}
+
+
+/*Section 03 - Sakura*/
+.section3 .half-top {
+    background-color: #b43844;
+}
+
+.section3 .half-bottom {
+    background-image: url(../asset/images/bg-sakura.png);
+}
+
+
+/*Section 04 - Hamman*/
+.section4 .half-top {
+    background-color: #004e70;
+}
+
+.section4 .half-bottom {
+    background-image: url(../asset/images/bg-hamman.png);
+}
+
+
+/*Section 05 - Footer*/
+#main-footer {
+    /*    height: 880px;*/
+    padding: 100px 0;
+    background-color: #414141;
+    color: #ccc;
+    font-family: 'ScalaSans', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    letter-spacing: 0.02em;
+}
+
+#main-footer footer {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+#main-footer h2 {
+    color: #fff;
+    font-family: 'ClassGarmnd', 'Times New Roman', serif;
+    font-size: 30px;
+}
+
+.footer-top {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+
+.footer-top h2 {
+    margin-bottom: 20px;
+}
+
+.subscription p {
+    margin-bottom: 20px;
+}
+
+.subscription-input {
+    width: 360px;
+    border: 1px solid #d8d8d8;
+    border-radius: 2px;
+}
+
+.subscription-input input {
+    width: 90%;
+    padding: 12px 20px;
+    background-color: transparent;
+    color: #fff;
+}
+
+.subscription-input input:focus {
+    border-radius: 10px;
+}
+
+.subscription-input button {
+    width: 30px;
+    height: 36px;
+    vertical-align: middle;
+    background: url(../asset/images/arrow.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    cursor: pointer;
+}
+
+.contact .number {
+    margin-bottom: 20px;
+}
+
+.contact .number span:last-child,
+.contact .hour span:last-child {
+    margin-left: 30px;
+    text-align: right;
+}
+
+.contact .hour {
+    margin-bottom: 20px;
+}
+
+.contact .sns a {
+    display: inline-block;
+    margin-right: 30px;
+}
+
+
+.footer-bottom {
+    padding-top: 50px;
+    border-top: 1px solid #d8d8d8;
+}
+
+.footer-bottom h2 {
+    display: block;
+    margin-bottom: 50px;
+}
+
+.footer-bottom > div {
+    display: inline-block;
+    margin-right: 50px;
+    vertical-align: top;
+}
+
+.footer-bottom > div:last-child {
+    margin-right: 0;
+}
+
+.footer-bottom .category > a {
+    display: block;
+    margin-bottom: 30px;
+    color: #fff;
+}
+
+
+.footer-bottom .category ul li {
+    margin-bottom: 10px;
+}
+
+.footer-bottom .category ul li a {
+    transition: all 0.2s ease;
+}
+
+.footer-bottom .category ul li:hover a {
+    text-decoration: underline;
+    color: #fff;
+}
+
+#main-footer > footer > span {
+    position: absolute;
+    bottom: 80px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+/*Scroll Dots*/
+/*
+.dots {
+    z-index: 1;
+    list-style: none;
+    padding: 0;
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.dots li a {
+    padding: 10px;
+    width: 4px;
+    height: 5px;
+    display: block;
+}
+
+.dots li a:before {
+    content: '';
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    background: rgba(255, 255, 255, 0.48);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-transition: -webkit-transform 0.3s ease, background-color 0.3s ease;
+    -moz-transition: -moz-transform 0.3s ease, background-color 0.3s ease;
+    -ms-transition: -ms-transform 0.3s ease, background-color 0.3s ease;
+    -o-transition: -o-transform 0.3s ease, background-color 0.3s ease;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.dots li a.active:before {
+    content: '';
+    background-color: #FFFFFF;
+    width: 14px;
+    height: 14px;
+    margin-top: -4px;
+    left: 7px;
+    background-color: white;
+    -webkit-transform: scale(1.0);
+    -moz-transform: scale(1.0);
+    -ms-transform: scale(1.0);
+    -o-transform: scale(1.0);
+    transform: scale(1.0);
+}
+
+.dots-right {
+    left: 25px;
+}
+
+.dots-left {
+    right: 10px;
+}
+*/

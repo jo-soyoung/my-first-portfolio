@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "ClassGarmnd";
+    font-style: normal;
+    font-weight: 400;
+    src: url('../asset/fonts/CLSGARAB.TTF') format('truetype'); /* Safari, Android, iOS */
+}
+
+@font-face {
+    font-family: "ScalaSans";
+    font-style: normal;
+    font-weight: 300;
+    src: url('../asset/fonts/ScalaSansOT-Light.otf') format('truetype'); /* Safari, Android, iOS */
+}
+
+@font-face {
+    font-family: "ScalaSans";
+    font-style: normal;
+    font-weight: 400;
+    src: url('../asset/fonts/ScalaSansOT-Regular.otf') format('truetype'); /* Safari, Android, iOS */
+}
+
+@font-face {
+    font-family: "ScalaSans";
+    font-style: normal;
+    font-weight: 700;
+    src: url('../asset/fonts/ScalaSansOT-CondBold.otf') format('truetype'); /* Safari, Android, iOS */
+}
+
+
