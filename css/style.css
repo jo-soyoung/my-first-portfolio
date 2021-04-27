@@ -59,8 +59,8 @@ footer li a::after {
 header .logo:hover a::after,
 .menu ul:last-child a:hover::after,
 footer li:hover a::after {
-  width: 120%;
-  left: -10%;
+  width: 105%;
+  left: -2.5%;
   transition: width 500ms;
   content: '';
   height: 1px;
