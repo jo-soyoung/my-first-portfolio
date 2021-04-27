@@ -4,7 +4,7 @@
 <br/>
 
 #### Overview
-There are 3 pages that you can check out.
+- There are 3 pages that you can check out.
 
 |Page|What you can find|
 |-- |--|
@@ -12,13 +12,7 @@ There are 3 pages that you can check out.
 |**About Me**|short introduction about me|
 |**Web Design & Coding**|websites that I worked on design and coding|
 
-<br/>
-
-This portfolio website is responsive website.
-
-<br/>
-
-#### Preview
+- This portfolio website is responsive website.
 
 _desktop_ 
 <br/>
