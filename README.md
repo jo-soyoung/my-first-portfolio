@@ -32,7 +32,7 @@ _mobile_
 ---
 
 # :book: Landing Page
-❗ Please scroll instead of clicking the pagers on the main page.
+❗ Please scroll instead of clicking the pagers on the landing page.
 <br/>
 ✨ As I regard each apps as handcrafts, I used a metaphor by replacing each app's main image with real art pieces. <br/>
 You can see the reference when you hover the image.
