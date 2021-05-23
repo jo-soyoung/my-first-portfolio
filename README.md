@@ -3,7 +3,7 @@
 
 <br/>
 
-### Overview
+## Overview
 - There are 3 pages that you can check out.
 
 |Page|What you can find|
@@ -23,7 +23,7 @@ _desktop_
 
 _mobile_
 <br/>
-<img src="https://postfiles.pstatic.net/MjAyMTA0MjhfMjM3/MDAxNjE5NTQwMTEzNzM3.gk9nCN8G8z_pZxdgdeAiUIbjNQ8xhRCyDBa4vIn2_bYg.zSLSyWvQ4TyxwBg_cyPTGVSX3o42wju_lB2PwLB8js0g.JPEG.cookr3/IMG_8436.jpg?type=w773" width="500" />
+<img src="https://postfiles.pstatic.net/MjAyMTA0MjhfMjM3/MDAxNjE5NTQwMTEzNzM3.gk9nCN8G8z_pZxdgdeAiUIbjNQ8xhRCyDBa4vIn2_bYg.zSLSyWvQ4TyxwBg_cyPTGVSX3o42wju_lB2PwLB8js0g.JPEG.cookr3/IMG_8436.jpg?type=w773" width="300" />
 
 
 <br/>
