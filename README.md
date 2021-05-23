@@ -1,5 +1,5 @@
 # My First Portfolio
-[My first portfolio](https://jo-soyoung.github.io/my-first-portfolio/) that includes frontend development works.
+[My first portfolio](https://jo-soyoung.github.io/my-portfolio/) that includes frontend development works.
 
 <br/>
 
