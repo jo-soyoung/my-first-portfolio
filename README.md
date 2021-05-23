@@ -49,6 +49,8 @@ Youtube clone project made with React JS
 * [x] Search videos
 * [x] Responsive web
 
+:octocat: [See the Repo](https://github.com/jo-soyoung/youtube-clone)
+
 <br/>
 
 ## 2. Habit Tracker
@@ -62,6 +64,8 @@ Habit tracking app made with React JS
 * [x] Habits persistance
 * [x] Auto completion of the habit which has done 21 times
 * [x] Responsive web
+
+:octocat: [See the Repo](https://github.com/jo-soyoung/habit-tracker)
 
 <br/>
 
@@ -78,6 +82,8 @@ Momentum app made with Vanilla JS
 * [x] Weather with geolocation
 * [x] Responsive web
 
+:octocat: [See the Repo](https://github.com/jo-soyoung/momentum)
+
 <br/>
 
 
@@ -90,6 +96,8 @@ Drawing Board made with Vanilla JS
 * [x] Select color
 * [x] Fill mode
 * [x] Save the drawing
+
+:octocat: [See the Repo](https://github.com/jo-soyoung/drawing-board)
 
 <br/>
 
