@@ -15,15 +15,9 @@
 <br/>
 
 
-- This portfolio website is responsive website.
+- This portfolio website is a responsive website. <br/>
 
-_desktop_ 
-<br/>
-<img src="https://postfiles.pstatic.net/MjAyMTA0MjhfMjI0/MDAxNjE5NTM3NTYwMDU0.wVxMoS_NWWoPczWn0RMQg7vIYR6mpQ91w7rK-nXIugkg.0wkq3DHEp2Itae2n4gYnpkTHZRf7Z3hMg5mhBdZbFEYg.PNG.cookr3/image.png?type=w773" width="500" />
-
-_mobile_
-<br/>
-<img src="https://postfiles.pstatic.net/MjAyMTA0MjhfMjM3/MDAxNjE5NTQwMTEzNzM3.gk9nCN8G8z_pZxdgdeAiUIbjNQ8xhRCyDBa4vIn2_bYg.zSLSyWvQ4TyxwBg_cyPTGVSX3o42wju_lB2PwLB8js0g.JPEG.cookr3/IMG_8436.jpg?type=w773" width="300" />
+<img src="https://postfiles.pstatic.net/MjAyMTA0MjhfMjI0/MDAxNjE5NTM3NTYwMDU0.wVxMoS_NWWoPczWn0RMQg7vIYR6mpQ91w7rK-nXIugkg.0wkq3DHEp2Itae2n4gYnpkTHZRf7Z3hMg5mhBdZbFEYg.PNG.cookr3/image.png?type=w773" height="300" /> <img src="https://postfiles.pstatic.net/MjAyMTA0MjhfMjM3/MDAxNjE5NTQwMTEzNzM3.gk9nCN8G8z_pZxdgdeAiUIbjNQ8xhRCyDBa4vIn2_bYg.zSLSyWvQ4TyxwBg_cyPTGVSX3o42wju_lB2PwLB8js0g.JPEG.cookr3/IMG_8436.jpg?type=w773" height="300" />
 
 
 <br/>
